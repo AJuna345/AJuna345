@@ -6,6 +6,30 @@ I am a Gamer
 
 * 🌍  I'm based in Alabama
 
+<h2 align="center">My Latest Project</h2>
+
+<table align="center">
+  <tr>
+    <td width="400">
+      <h3 align="center">🐍 Uncaffeinated Snake Game</h3>
+      <div align="center">
+        <a href="https://ajuna345.github.io/snake-game/">
+          <img src="https://via.placeholder.com/400x200.png?text=Snake Game" width="400" alt="Uncaffeinated Snake Game">
+        </a>
+      </div>
+      <br>
+      <p align="center">
+        A classic Snake game built with HTML5 Canvas and JavaScript, featuring dynamic theming and accessibility enhancements!
+      </p>
+      <div align="center">
+        <a href="https://ajuna345.github.io/snake-game/"><strong>🎮 Play Game</strong></a>
+        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/AJuna345/snake-game"><strong>💻 Source Code</strong></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a>
 </p>
