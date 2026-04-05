@@ -18,9 +18,7 @@ I am a Gamer
         </a>
       </div>
       <br>
-      <p align="center">
-        A classic Snake game built with HTML5 Canvas and JavaScript, featuring dynamic theming and accessibility enhancements!
-      </p>
+      <p align="center">The classic Snake game</p>
       <div align="center">
         <a href="https://ajuna345.github.io/snake-game/"><strong>🎮 Play Game</strong></a>
         &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
