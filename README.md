@@ -12,11 +12,6 @@ I am a Gamer
   <tr>
     <td width="400">
       <h3 align="center">🐍 Uncaffeinated Snake Game</h3>
-      <div align="center">
-        <a href="https://ajuna345.github.io/snake-game/">
-          <img src="https://via.placeholder.com/400x200.png?text=Snake Game" width="400" alt="Uncaffeinated Snake Game">
-        </a>
-      </div>
       <br>
       <p align="center">The classic Snake game</p>
       <div align="center">
