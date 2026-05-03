@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is AJ Ramsden
-===================================================================================================================================
+# Hi! I'm A.J. Ramsden
+A senior at the University of North Alabama.
+![University of North Alabama Logo](https://www.una.edu/brand/images/una-logo-purple.png)
 
 I like to play games
 ------------
