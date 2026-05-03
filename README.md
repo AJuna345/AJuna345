@@ -4,22 +4,27 @@
   <br>I like to play games!
 </p>
 
-## Socials
+## My Social Media Accounts
 <p align="left">
-  <a href="https://www.linkedin.com/in/aiden-ramsden/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32">
+  <a href="https://www.linkedin.com/in/aiden-ramsden/" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; margin-right: 1.5rem;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32" style="margin-right: 0.5rem;">
+    LinkedIn
   </a>
-  <a href="https://www.youtube.com/@UNcaffeinated-1" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="32" height="32">
+  <a href="https://www.youtube.com/@UNcaffeinated-1" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; margin-right: 1.5rem;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="32" height="32" style="margin-right: 0.5rem;">
+    YouTube
   </a>
-  <a href="https://x.com/RamsdenA79364" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" width="32" height="32">
+  <a href="https://x.com/RamsdenA79364" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; margin-right: 1.5rem;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X (formerly Twitter)" width="32" height="32" style="margin-right: 0.5rem;">
+    X
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61565364982227" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="32" height="32">
+  <a href="https://www.facebook.com/profile.php?id=61565364982227" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center; margin-right: 1.5rem;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="32" height="32" style="margin-right: 0.5rem;">
+    Facebook
   </a>
-  <a href="https://uncaffeinatednews.wordpress.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="WordPress" width="32" height="32">
+  <a href="https://uncaffeinatednews.wordpress.com" target="_blank" style="text-decoration: none; color: inherit; display: inline-flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="WordPress" width="32" height="32" style="margin-right: 0.5rem;">
+    WordPress
   </a>
 </p>
 
