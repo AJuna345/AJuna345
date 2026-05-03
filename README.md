@@ -2,9 +2,9 @@
   <img src="https://roarlions.com/images/2023/2/1/UNA_Lion_Type_LtBG.png" alt="University of North Alabama Logo" width="150">
   <br><b>Hi! I'm A.J. Ramsden, a Senior at the University of North Alabama</b>
   <br>I like to play games!
+  <h2>My Social Media Accounts</h2>
 </p>
 
-## My Social Media Accounts
 <div align="center">
   <table>
     <tr>
