@@ -5,28 +5,40 @@
 </p>
 
 ## My Social Media Accounts
-<p align="left">
-  <a href="https://www.linkedin.com/in/aiden-ramsden/" target="_blank" style="text-decoration: none; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 5px;">LinkedIn</span>
-  </a>
-  <a href="https://www.youtube.com/@UNcaffeinated-1" target="_blank" style="text-decoration: none; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="32" height="32" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 5px;">YouTube</span>
-  </a>
-  <a href="https://x.com/RamsdenA79364" target="_blank" style="text-decoration: none; margin-right: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="30" height="30" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 5px;">X</span>
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61565364982227" target="_blank" style="text-decoration: none; margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="32" height="32" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 5px;">Facebook</span>
-  </a>
-  <a href="https://uncaffeinatednews.wordpress.com" target="_blank" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="WordPress" width="32" height="32" style="vertical-align: middle;">
-    <span style="vertical-align: middle; margin-left: 5px;">WordPress</span>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/aiden-ramsden/">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32"><br>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/@UNcaffeinated-1">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="32" height="32"><br>
+        YouTube
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/RamsdenA79364">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" width="30" height="30"><br>
+        X
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/profile.php?id=61565364982227">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="32" height="32"><br>
+        Facebook
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://uncaffeinatednews.wordpress.com">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="WordPress" width="32" height="32"><br>
+        WordPress
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">My Latest Project</h2>
 <table align="center">
