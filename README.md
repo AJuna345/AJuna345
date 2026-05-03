@@ -29,10 +29,4 @@
 
 <p align="left"> <a href="https://www.github.com/AJuna345" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
 
-   <a href="https://validator.w3.org/nu/?doc=https://ajuna345.github.io/snake-app/" target="_blank" class="btn btn-outline-secondary btn-sm">
-              Nu Validator
-          </a>
- 
-<a href="https://wave.webaim.org/report#/https://ajuna345.github.io/snake-app/" target="_blank" class="btn btn-outline-secondary btn-sm">
-              WAVE Checker
-          </a>
+
