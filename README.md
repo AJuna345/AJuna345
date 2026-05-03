@@ -4,6 +4,24 @@
   <br>I like to play games!
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/aiden-ramsden/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32">
+  </a>
+  <a href="https://www.youtube.com/@UNcaffeinated-1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="32" height="32">
+  </a>
+  <a href="https://x.com/RamsdenA79364" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X/Twitter" width="32" height="32">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61565364982227" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="32" height="32">
+  </a>
+  <a href="https://uncaffeinatednews.wordpress.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="WordPress" width="32" height="32">
+  </a>
+</p>
+
 <h2 align="center">My Latest Project</h2>
 
 <table align="center">
