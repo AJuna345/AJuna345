@@ -17,7 +17,8 @@
       <td align="center">
         <a href="https://www.youtube.com/@UNcaffeinated-1">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="32" height="32"><br>
-          YouTube
+          YouTube<br>
+          <sub>@UNcaffeinated-1</sub>
         </a>
       </td>
       <td align="center">
@@ -35,7 +36,8 @@
       <td align="center">
         <a href="https://uncaffeinatednews.wordpress.com">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="WordPress" width="32" height="32"><br>
-          WordPress
+          WordPress<br>
+          <sub>(My Portfolio)</sub>
         </a>
       </td>
     </tr>
