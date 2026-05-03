@@ -5,6 +5,7 @@
 </p>
 
 ## My Social Media Accounts
+<p align="center">
 <table>
   <tr>
     <td align="center">
@@ -39,6 +40,7 @@
     </td>
   </tr>
 </table>
+</p>
 
 <h2 align="center">My Latest Project</h2>
 <table align="center">
