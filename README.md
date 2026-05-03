@@ -1,6 +1,6 @@
 # Hi! I'm A.J. Ramsden
 A senior at the University of North Alabama.
-![University of North Alabama Logo](https://roarlions.com/images/2023/2/1/UNA_Lion_Type_LtBG.png)
+<img src="https://roarlions.com/images/2023/2/1/UNA_Lion_Type_LtBG.png" alt="University of North Alabama Logo" width="200">
 
 I like to play games
 ------------
