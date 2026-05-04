@@ -53,7 +53,7 @@
       <div align="center">
         <a href="https://ajuna345.github.io/snake-app/"><strong>🎮 Play Game</strong></a>
         &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-        <a href="https://github.com/AJuna345/snake-app"><strong>💻 Source Code</strong></a>
+        <a href="https://github.com/AJuna345/snake-app"><strong>💻 Repository</strong></a>
       </div>
     </td>
   </tr>
