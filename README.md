@@ -49,8 +49,7 @@
   <tr>
     <td width="400">
       <h3 align="center">🐍 Uncaffeinated - Solid Snake!</h3>
-      <br>
-      <p align="center">NEW VERSION!</p>
+      <p align="center">NEW & IMPROVED SNAKE GAME!</p>
       <div align="center">
         <a href="https://ajuna345.github.io/snake-app/"><strong>🎮 Play Game</strong></a>
         &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
