@@ -55,7 +55,7 @@
         &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
         <a href="https://github.com/AJuna345/snake-app"><strong>💻 Repository</strong></a>
         <br>
-        This version of the classic Snake game has a new look, themes, power-ups, and randomized playfields with walls.
+        My update to the classic Snake game has a new look, themes, power-ups, and randomized playfields with walls.
         I also upgraded it to run on desktop and mobile devices with new challenges each game.
       </div>
     </td>
